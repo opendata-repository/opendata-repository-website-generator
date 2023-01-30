@@ -18,6 +18,16 @@
       <version>3.12.0</version>
     </dependency>
     <dependency>
+      <groupId>io.github.fabricetheytaz.schema.org</groupId>
+      <artifactId>database</artifactId>
+      <version>0.1.0-ALPHA</version>
+    </dependency>
+    <dependency>
+      <groupId>io.github.fabricetheytaz</groupId>
+      <artifactId>website-generator</artifactId>
+      <version>0.1.0-ALPHA</version>
+    </dependency>
+    <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
       <version>5.9.1</version>
